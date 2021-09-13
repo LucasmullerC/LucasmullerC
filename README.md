@@ -1,4 +1,4 @@
-## Hello! My name in Lucas Müller, Welcome to my profile! 👋
+## Hello! Welcome to my profile! 👋
 
  <div>
   <a href="https://github.com/LucasmullerC">
